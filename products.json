@@ -1,0 +1,4492 @@
+[
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c09"
+    },
+    "tip": "гребалица",
+    "name": "гребалица угаона 49.5X23.5CM, беж",
+    "price": "1858",
+    "detail": "-",
+    "image": "/artikli/grebalica-ugaona-bez.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c0a"
+    },
+    "tip": "играчке",
+    "name": "играчка мататаби са перјем,20CM",
+    "price": "305",
+    "detail": "-",
+    "image": "/artikli/matatabi.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c0b"
+    },
+    "tip": "играчке",
+    "name": "лоптице и ролне 4CM - за мачке",
+    "price": "72",
+    "detail": "-",
+    "image": "/artikli/trixie-loptice-i-rolne-45cm.webp",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c0c"
+    },
+    "tip": "играчке",
+    "name": "лоптица обмотана памучним канапом 4.5CM - за мачке",
+    "price": "162",
+    "detail": "-",
+    "image": "/artikli/loptica-obmotana-pam-kan.jpeg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c0d"
+    },
+    "tip": "играчке",
+    "name": "4 лопте звецке,4.5CM",
+    "price": "60",
+    "detail": "-",
+    "image": "/artikli/lopte-zvecke.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c0e"
+    },
+    "tip": "играчке",
+    "name": "24 крзнена миша\"мишија парада\"",
+    "price": "113",
+    "detail": "-",
+    "image": "/artikli/parada.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c0f"
+    },
+    "tip": "играчке",
+    "name": "штап са перјем, 50CM",
+    "price": "179",
+    "detail": "-",
+    "image": "/artikli/stap-perje.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c10"
+    },
+    "tip": "огрлица",
+    "name": "огрлица маце NECKI са марамом",
+
+    "price": "460",
+    "detail": "-",
+    "image": "/artikli/mace-necki-marama.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c11"
+    },
+    "tip": "опрема",
+    "name": "спреј од мачије траве, 50ML",
+
+    "price": "385",
+    "detail": "-",
+    "image": "/artikli/sprej-mac-trava.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c12"
+    },
+    "tip": "опрема",
+    "name": "спреј од мачије траве, 175ML",
+
+    "price": "470",
+    "detail": "-",
+    "image": "/artikli/sprej-mac-trava.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c13"
+    },
+    "tip": "посип",
+    "name": "шапица-посип за маце 5KG",
+
+    "price": "274",
+    "detail": "-",
+    "image": "/artikli/sapica-posip.png",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c14"
+    },
+    "tip": "суплемент",
+    "name": "трава мачија, чинија 100G",
+
+    "price": "240",
+    "detail": "-",
+    "image": "/artikli/trixie-macija-trava-u-posudi.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c15"
+    },
+    "tip": "тоалет",
+    "name": "лопатица за укл. посипа, тешка",
+
+    "price": "125",
+    "detail": "-",
+    "image": "/artikli/lopatica-teska.jpeg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c16"
+    },
+    "tip": "тоалет",
+    "name": "лопатица за укл. посипа, густа",
+
+    "price": "172",
+    "detail": "-",
+    "image": "/artikli/trixie-lopatica-za-uklanjanje-posipa.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c17"
+    },
+    "tip": "амови",
+    "name": "ам CLASSIC ткани 30-40/15-црни",
+
+    "price": "588",
+    "detail": "-",
+    "image": "/artikli/am-tkani-crni.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c18"
+    },
+    "tip": "амови",
+    "name": "ам CLASSIC ткани 40-65/15-црвени",
+
+    "price": "690",
+    "detail": "-",
+    "image": "/artikli/am-za-psa.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c19"
+    },
+    "tip": "амови",
+    "name": "ам CLASSIC ткани 50-75/25-црни",
+
+    "price": "1085",
+    "detail": "-",
+    "image": "/artikli/am-tkani-crni.jpg",
+
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c1a"
+    },
+    "tip": "амови",
+    "name": "ам CLASSIC ткани 75-100/25-црвени",
+
+    "price": "1286",
+    "detail": "-",
+    "image": "/artikli/am-za-psa.jpg",
+
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c1b"
+    },
+    "tip": "чинија",
+    "name": "чинија керамичка за мачке 0.3L",
+
+    "price": "295",
+    "detail": "-",
+    "image": "/artikli/cinij-ker-za-mace.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c1c"
+    },
+    "tip": "чинија",
+    "name": "чинија за арт.24831,0.45L ростфрај ",
+
+    "price": "182",
+    "detail": "-",
+    "image": "/artikli/rostgraj-cinija.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c1d"
+    },
+    "tip": "чинија",
+    "name": "чинија за арт.24832 0.75L",
+
+    "price": "273",
+    "detail": "-",
+    "image": "/artikli/rostgraj-cinija.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c1e"
+    },
+    "tip": "играчке",
+    "name": "вунено ужЕ ЗА ИГРУ 25G/15CM",
+
+    "price": "94",
+    "detail": "-",
+    "image": "/artikli/vuneno-uze.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c1f"
+    },
+    "tip": "играчке",
+    "name": " denta fun канап,памуч.500G/60CM",
+
+    "price": "732",
+    "detail": "-",
+    "image": "/artikli/dentafun-kanap-sareni-40cm.webp",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c20"
+    },
+    "tip": "играчке",
+    "name": "лопта са канапом, 5.5CM/30C",
+
+    "price": "221",
+    "detail": "-",
+    "image": "/artikli/lopta-pamuc-kanap.jpeg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c21"
+    },
+    "tip": "играчке",
+    "name": "лопта јежаста, винил,7.5 CM",
+
+    "price": "278",
+    "detail": "-",
+    "image": "/artikli/trixie-jezasta-lopta-od-vinila.png ",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c22"
+    },
+    "tip": "играчке",
+    "name": "лопта са канап. 7CM/50CM",
+
+    "price": "362",
+    "detail": "-",
+    "image": "/artikli/lopta-pamuc-kanap.jpeg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c23"
+    },
+    "tip": "корпа",
+    "name": "корпа најл.са мрежи. подешав. вел1",
+
+    "price": "471",
+    "detail": "-",
+    "image": "/artikli/korpa-najlon-podes.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c24"
+    },
+    "tip": "корпа",
+    "name": "корпа најл.са мрежи.подешав.вел2",
+
+    "price": "501",
+    "detail": "-",
+    "image": "/artikli/korpa-najlon-podes.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c25"
+    },
+    "tip": "корпа",
+    "name": "корпа најл.са мрежи.подешав.вел3",
+
+    "price": "598",
+    "detail": "-",
+    "image": "/artikli/korpa-najlon-podes.jpg",
+
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c26"
+    },
+    "tip": "корпа",
+    "name": "корпа најл.са мрежи.подешав.вел4",
+
+    "price": "649",
+    "detail": "-",
+    "image": "/artikli/korpa-najlon-podes.jpg",
+
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c27"
+    },
+    "tip": "корпа",
+    "name": "корпа најл.са мрежи.подешав.вел5",
+
+    "price": "684",
+    "detail": "-",
+    "image": "/artikli/korpa-najlon-podes.jpg",
+
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c28"
+    },
+    "tip": "огрлица",
+    "name": "давилица MOUNTAIN 45-55CM/6MM",
+
+    "price": "255",
+    "detail": "-",
+    "image": "/artikli/davilica.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c29"
+    },
+    "tip": "огрлица",
+    "name": "давилица MOUNTAIN 55-65CM/10MM",
+
+    "price": "368",
+    "detail": "-",
+    "image": "/artikli/davilica.jpg",
+
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c2a"
+    },
+    "tip": "огрлица",
+    "name": "огрлица PREMIUM XS-S 22-35CM/10MM корал",
+
+    "price": "362",
+    "detail": "-",
+    "image": "/artikli/ogrlica-premium.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c2b"
+    },
+    "tip": "огрлица",
+    "name": "6 огр.за штенце M-L,22-35/10",
+
+    "price": "162",
+    "detail": "-",
+    "image": "/artikli/set-ogrlica.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c2c"
+    },
+    "tip": "опрема",
+    "name": "ваљак за купљење длака",
+
+    "price": "354",
+    "detail": "-",
+    "image": "/artikli/valjak-dlake.jpeg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c2d"
+    },
+    "tip": "опрема",
+    "name": "2 ваљка за купљење длака",
+
+    "price": "559",
+    "detail": "-",
+    "image": "/artikli/valjak-dlake.jpeg",
+
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c2e"
+    },
+    "tip": "посластица",
+    "name": "100 ролни за глод,MIX PAK.9-10MM",
+
+    "price": "8",
+    "detail": "-",
+    "image": "/artikli/rolne-za-glodanje.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c2f"
+    },
+    "tip": "посластица",
+    "name": "50 кости за глод.прес. 10GR/5CM",
+
+    "price": "36",
+    "detail": "-",
+    "image": "/artikli/kost_za_glodanje.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c30"
+    },
+    "tip": "посластица",
+    "name": "50 кости за глод.прес.20GR/8CM",
+
+    "price": "63",
+    "detail": "-",
+    "image": "/artikli/kost_za_glodanje.jpg",
+
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c31"
+    },
+    "tip": "поводац",
+    "name": "поводац CLASSIC 1.2-1.8/10-црвени",
+
+    "price": "446",
+    "detail": "-",
+    "image": "/artikli/povodac-classic.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c32"
+    },
+    "tip": "поводац",
+    "name": "поводац CLASSIC XS-S,1.20M/15MM црни",
+    "price": "454",
+    "detail": "-",
+    "image": "/artikli/povodac-classic.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c33"
+    },
+    "tip": "поводац",
+    "name": "поводац CLASSIC 1.2-1.8/20-црни",
+
+    "price": "675",
+    "detail": "-",
+    "image": "/artikli/povodac-1-2.jpeg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c34"
+    },
+    "tip": "поводац",
+    "name": "поводац CLASSIC L-XL,1.00M/25MM црни",
+
+    "price": "728",
+    "detail": "-",
+    "image": "/artikli/povodac-1-2.jpeg",
+
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c35"
+    },
+    "tip": "хранилица/појилица",
+    "name": "хранилица појилица, 65ML/14.5CM",
+
+    "price": "196",
+    "detail": "-",
+    "image": "/artikli/HRANILICA-POJILICA.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c36"
+    },
+    "tip": "хранилица/појилица",
+    "name": "хранилица појилица, 130ML/16CM",
+
+    "price": "213",
+    "detail": "-",
+    "image": "/artikli/HRANILICA-POJILICA.jpg",
+
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c37"
+    },
+    "tip": "хранилица/појилица",
+    "name": "хранилица појилица - посудица за кавезе,130ML",
+
+    "price": "124",
+    "detail": "-",
+    "image": "/artikli/hranilica-pojilica.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c38"
+    },
+    "tip": "играчке",
+    "name": "љуљашка коцка. са звонцетом",
+
+    "price": "130",
+    "detail": "-",
+    "image": "/artikli/ljuljaska-zvonce.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c39"
+    },
+    "tip": "играчке",
+    "name": "мердевине дрвене,5пречки,24cm",
+
+    "price": "147",
+    "detail": "-",
+    "image": "/artikli/merdevine-5-p.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c3a"
+    },
+    "tip": "играчке",
+    "name": "3 решетк.лоптице на ланцу,4.5CM",
+
+    "price": "159",
+    "detail": "-",
+    "image": "/artikli/3-loptice-rešetka.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c3b"
+    },
+    "tip": "играчке",
+    "name": "полукружна љуљњашка 8X15CM",
+
+    "price": "198",
+    "detail": "-",
+    "image": "/artikli/polukruzna.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c3c"
+    },
+    "tip": "играчке",
+    "name": "мердевине дрвене,8пречки,36cm",
+    "price": "197",
+    "detail": "-",
+    "image": "/artikli/8precki.webp",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c3d"
+    },
+    "tip": "играчке",
+    "name": "пењалица за птице,дрвена 25CM",
+
+    "price": "309",
+    "detail": "-",
+    "image": "/artikli/penjalica-drvena.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c3e"
+    },
+    "tip": "играчке",
+    "name": "љуљашка полукружна,15X27CM",
+
+    "price": "326",
+    "detail": "-",
+    "image": "/artikli/ljuljaska-polukruzna.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c3f"
+    },
+    "tip": "играчке",
+    "name": "прстен памучни са дрв.кугл.16cm",
+
+    "price": "675",
+    "detail": "-",
+    "image": "/artikli/prsten-pamucni-drvena-kugla.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c40"
+    },
+    "tip": "суплемент",
+    "name": "камен за кљуцање са јодом 25g",
+
+    "price": "136",
+    "detail": "-",
+    "image": "/artikli/kamen-kljucanje-jod.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c41"
+    },
+    "tip": "суплемент",
+    "name": "камен за кљуцање са јодом 120g",
+
+    "price": "180",
+    "detail": "-",
+    "image": "/artikli/kamen-kljucanje-jod.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c42"
+    },
+    "tip": "суплемент",
+    "name": "камен за кљуцање са алгама,210",
+
+    "price": "214",
+    "detail": "-",
+    "image": "/artikli/kamen-kljucanje-alge.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c43"
+    },
+    "tip": "сосић",
+    "name": "FRISKIES Cat сос JUNIOR пилетина(multipack), 4x85g",
+
+    "price": "45",
+    "detail": "-",
+    "image": "/artikli/friskies-cat-sauce-junior.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c44"
+    },
+    "tip": "грануле",
+    "name": "PRO PLAN Cat STERILISED Renal - зечетина, 10kg",
+
+    "price": "991",
+    "detail": "-",
+    "image": "/artikli/pro-plan-cat-sterilised-renal-rabbit.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c45"
+    },
+    "tip": "паштета",
+    "name": "GOURMET GOLD Cat Cig пилетина&џигерица комадићи у паштети, 85g",
+
+    "price": "99",
+    "detail": "-",
+    "image": "/artikli/gourmet-gold-cat-chicken-liver.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c46"
+    },
+    "tip": "паштета",
+    "name": "GOURMET GOLD Cat јагњетина&пачетина паштета, 85g",
+
+    "price": "99",
+    "detail": "-",
+    "image": "/artikli/gourmet-gold-cat-lamb-duck.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c47"
+    },
+    "tip": "паштета",
+    "name": "GOURMET GOLD Cat Tuna паштета, 85g",
+
+    "price": "99",
+    "detail": "-",
+    "image": "/artikli/gourmet-gold-cat-tuna.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c48"
+    },
+    "tip": "паштета",
+    "name": "GOURMET GOLD Cat Cig говедина у сосу (multipack), 4x85g",
+
+    "price": "93",
+    "detail": "-",
+    "image": "/artikli/gourmet-gold-cat-cig.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c49"
+    },
+    "tip": "посластица",
+    "name": "FELIX PARTY MIX Cat Mixed Grill, 60g",
+
+    "price": "126",
+    "detail": "-",
+    "image": "/artikli/felix-party-mix-grill.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c4a"
+    },
+    "tip": "посластица",
+    "name": "FELIX PARTY MIX Cat Ocean, 60g",
+
+    "price": "126",
+    "detail": "-",
+    "image": "/artikli/felix-party-mix-ocean.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c4b"
+    },
+    "tip": "посластица",
+    "name": "FELIX PARTY MIX Cat Original, 60g",
+
+    "price": "126",
+    "detail": "-",
+    "image": "/artikli/felix-party-mix.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c4c"
+    },
+    "tip": "сосић",
+    "name": "FELIX sos јагњетина, 100g",
+
+    "price": "64",
+    "detail": "-",
+    "image": "/artikli/felix-sauce-lamb.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c4d"
+    },
+    "tip": "сосић",
+    "name": "FRISKIES Cat Sos говедина (multipack 4x85g), 4x85g",
+
+    "price": "94",
+    "detail": "-",
+    "image": "/artikli/friskies-cat-sauce-beef.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c4e"
+    },
+    "tip": "сосић",
+    "name": "FRISKIES Cat Sos лосос(multipack), 4x85g",
+
+    "price": "94",
+    "detail": "-",
+    "image": "/artikli/friskies-cat-sauce-salmon.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c4f"
+    },
+    "tip": "грануле",
+    "name": "PRO PLAN Dog All sizes Adult Light/Sterilised пилетина, 14kg",
+    "price": "663",
+    "detail": "-",
+    "image": "/artikli/pro-plan-dog-all-sizes.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c50"
+    },
+    "tip": "посластица",
+    "name": "DENTALIFE LARGE Dog",
+
+    "price": "212",
+    "detail": "-",
+    "image": "/artikli/dentalife-large-dog.png",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c51"
+    },
+    "tip": "посластица",
+    "name": "DENTALIFE MEDIUM Dog",
+
+    "price": "212",
+    "detail": "-",
+    "image": "/artikli/dentalife-medium-dog.png",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c52"
+    },
+    "tip": "посластица",
+    "name": "DENTALIFE SMALL Dog",
+
+    "price": "207",
+    "detail": "-",
+    "image": "/artikli/dentalife-small-dog.png",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c53"
+    },
+    "tip": "сосић",
+    "name": "FRISKIES Dog sos Adult говедина,пилетина и јагњетина (multipack 12x100g)",
+
+    "price": "59",
+    "detail": "-",
+    "image": "/artikli/friskies-dog-sauce-adult.jpeg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c54"
+    },
+    "tip": "грануле",
+    "name": "PRO PLAN Dog Medium Puppy Sensitive Digestion јагњетина, 12kg",
+
+    "price": "694",
+    "detail": "-",
+    "image": "/artikli/pro-plan-dog-medium.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c55"
+    },
+    "tip": "сосић",
+    "name": "FRISKIES Dog sos JUNIOR пилетина и шаргарепа (multipack 4x100g)",
+
+    "price": "59",
+    "detail": "-",
+    "image": "/artikli/friskies-dog-sauce-junior.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c56"
+    },
+    "tip": "камен за глодање",
+    "name": "FL 84251 Gnawing stone јагода (камен за глодање)",
+
+    "price": "147",
+    "detail": "-",
+    "image": "/artikli/gnawing-stone-strawberry.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c57"
+    },
+    "tip": "камен за глодање",
+    "name": "FL 84252 Gnawing stone grap (камен за глодање)",
+
+    "price": "147",
+    "detail": "-",
+    "image": "/artikli/gnawing-stone.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c58"
+    },
+    "tip": "пиљевина",
+    "name": "HVT пиљевина premium 15l",
+
+    "price": "163",
+    "detail": "-",
+    "image": "/artikli/hvt-premium.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c59"
+    },
+    "tip": "пиљевина",
+    "name": "HVT пиљевина premium Citrus 15l",
+
+    "price": "160",
+    "detail": "-",
+    "image": "/artikli/hvt-premium-citrus.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c5a"
+    },
+    "tip": "пиљевина",
+    "name": "HVT пиљевина premium јабука 15l",
+
+    "price": "160",
+    "detail": "-",
+    "image": "/artikli/hvt-premium-apple.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c5b"
+    },
+    "tip": "семенке",
+    "name": "CE хрчак 400g",
+
+    "price": "120",
+    "detail": "-",
+    "image": "/artikli/se-hamster-400.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c5c"
+    },
+    "tip": "семенке",
+    "name": "MN 1kg MISCUGLIO CRICETI - хрчак",
+
+    "price": "343",
+    "detail": "-",
+    "image": "/artikli/mn-miscuglio-criceti-hamster.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c5d"
+    },
+    "tip": "сено",
+    "name": "MEADOW HAY 1 KG / 30 LTR",
+
+    "price": "409",
+    "detail": "-",
+    "image": "/artikli/meadow-hay-1.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c5e"
+    },
+    "tip": "посип",
+    "name": "GH 5kg Who Cares - CLUMPING",
+
+    "price": "322",
+    "detail": "-",
+    "image": "/artikli/gh-who-cares.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c5f"
+    },
+    "tip": "посип",
+    "name": "GH 5kg Who Cares",
+
+    "price": "349",
+    "detail": "-",
+    "image": "/artikli/gh-who-cares.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c60"
+    },
+    "tip": "посип",
+    "name": "GH 5kg Who Cares - лаванда",
+
+    "price": "379",
+    "detail": "-",
+    "image": "/artikli/gh-who-cares-lavander.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c61"
+    },
+    "tip": "посип",
+    "name": "MM 3.8L Moksi сликонски песак за маце",
+
+    "price": "652",
+    "detail": "-",
+    "image": "/artikli/mm-moksi-silicon-sand-cat-3.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c62"
+    },
+    "tip": "посип",
+    "name": "GH 6l Clumping Imperial Care BABY POWDER",
+
+    "price": "707",
+    "detail": "-",
+    "image": "/artikli/imperial-care-clumping-cat-litter-baby-powder.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c63"
+    },
+    "tip": "посип",
+    "name": "MM 5l Moksi силиконски песак за маце",
+
+    "price": "877",
+    "detail": "-",
+    "image": "/artikli/mm-moksi-silicon-sand-cat.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c64"
+    },
+    "tip": "кесице за измет",
+    "name": "MM кесице Moksi Regular 3/1",
+
+    "price": "152",
+    "detail": "-",
+    "image": "/artikli/mm-bags-moksi-regular.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c65"
+    },
+    "tip": "кесице за измет",
+    "name": "MM кутија + кесица Moksi 1/1",
+
+    "price": "158",
+    "detail": "-",
+    "image": "/artikli/mm-box-bag-moksi.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c66"
+    },
+    "tip": "конзерва",
+    "name": "MM Moksi Mini салама за псе и маце 0.4gr",
+
+    "price": "105",
+    "detail": "-",
+    "image": "/artikli/mm-moksi-mini-salam-dog-cat.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c67"
+    },
+    "tip": "конзерва",
+    "name": "MM 1kg салама за псе и мачке са говедином",
+
+    "price": "168",
+    "detail": "-",
+    "image": "/artikli/mm-salam-dog-cat-beef.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c68"
+    },
+    "tip": "конзерва",
+    "name": "MM 1kg салама за псе и мачке са пилетином",
+
+    "price": "168",
+    "detail": "-",
+    "image": "/artikli/mm-salam-dog-cat-chicken.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c69"
+    },
+    "tip": "конзерва",
+    "name": "MM 1kg салам за псе и мачке шунка",
+
+    "price": "168",
+    "detail": "-",
+    "image": "/artikli/mm-salam-dog-cat-ham.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c6a"
+    },
+    "tip": "посластица",
+    "name": "Jumbo Sausage 30g",
+
+    "price": "99",
+    "detail": "-",
+    "image": "/artikli/jumbo-sausage-30.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c6b"
+    },
+    "tip": "посластица",
+    "name": "MM MOKSI суве говеђе тетиве, пак од 3 ком.",
+
+    "price": "158",
+    "detail": "-",
+    "image": "/artikli/mm-moksi-dry-beef.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c6c"
+    },
+    "tip": "посластица",
+    "name": "SLIM кобасице 7KS/60g",
+
+    "price": "248",
+    "detail": "-",
+    "image": "/artikli/slim-sausage.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c6d"
+    },
+    "tip": "посластица",
+    "name": "Mini bones ham 580g",
+
+    "price": "1264",
+    "detail": "-",
+    "image": "/artikli/mini-bones-ham.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c6e"
+    },
+    "tip": "посластица",
+    "name": "Meat Sticks 80kom",
+
+    "price": "9",
+    "detail": "-",
+    "image": "/artikli/meat-sticks-80.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c6f"
+    },
+    "tip": "посластица",
+    "name": "MM обојени manchy штапић 12.5cmx20mm, 9-10g (100/1)",
+
+    "price": "9",
+    "detail": "-",
+    "image": "/artikli/mm-munchy.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c70"
+    },
+    "tip": "посластица",
+    "name": "MM Manchy плочица 12.5cmx20mm, 9-10g (100/1)",
+
+    "price": "12",
+    "detail": "-",
+    "image": "/artikli/mm-munchy.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c71"
+    },
+    "tip": "посластица",
+    "name": "Maxi starsstick ham, 800g",
+
+    "price": "1205",
+    "detail": "-",
+    "image": "/artikli/maxi-starsstick-ham.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c72"
+    },
+    "tip": "транспортер",
+    "name": "MP Transp.2783 GIPSY S пл.врата зелени ECO 46x31x32",
+
+    "price": "1132",
+    "detail": "-",
+    "image": "/artikli/mp-transporter-gipsy-s.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c73"
+    },
+    "tip": "транспортер",
+    "name": "MP Transp.1083 Gipsy L мтл. врата плави 58x38x38",
+
+    "price": "2015",
+    "detail": "-",
+    "image": "/artikli/mp-transporter-gipsy.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c74"
+    },
+    "tip": "посластица",
+    "name": "MN 60gr канаринци-штапићи микс са медом",
+
+    "price": "286",
+    "detail": "-",
+    "image": "/artikli/mn-kanarinci-stapici-med.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c75"
+    },
+    "tip": "посластица",
+    "name": "MN 60gr канаринци-штапићи микс са воћем",
+
+    "price": "286",
+    "detail": "-",
+    "image": "/artikli/mn-kanarinci-stapici-voce.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c76"
+    },
+    "tip": "посластица",
+    "name": "MN 120gr нимфе/папагаји-штапићи микс са лешницима",
+
+    "price": "460",
+    "detail": "-",
+    "image": "/artikli/mn-nimfe-stapici-lesnici.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c77"
+    },
+    "tip": "посластица",
+    "name": "MN 120gr нимфе/папагаји-штапићи микс са воћем ",
+
+    "price": "460",
+    "detail": "-",
+    "image": "/artikli/mn-nimfe-stapici-voce.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c78"
+    },
+    "tip": "семенке",
+    "name": "CE минерали за птице 100g-1/20",
+
+    "price": "98",
+    "detail": "-",
+    "image": "/artikli/se-minerali-za-ptice.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c79"
+    },
+    "tip": "семенке",
+    "name": "CE просо 400gr-1/32",
+
+    "price": "96",
+    "detail": "-",
+    "image": "/artikli/se-proso.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c7a"
+    },
+    "tip": "семенке",
+    "name": "CE канаринци 400g",
+
+    "price": "145",
+    "detail": "-",
+    "image": "/artikli/se-kanarinci.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c7b"
+    },
+    "tip": "семенке",
+    "name": "CE бар у класу 100g-1/26",
+
+    "price": "139",
+    "detail": "-",
+    "image": "/artikli/se-bar-u-klasu.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c7c"
+    },
+    "tip": "семенке",
+    "name": "CE нимфе 400g",
+
+    "price": "157",
+    "detail": "-",
+    "image": "/artikli/se-nimfe.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c7d"
+    },
+    "tip": "семенке",
+    "name": "CE тигрице 400g",
+
+    "price": "154",
+    "detail": "-",
+    "image": "/artikli/se-tigrice.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c7e"
+    },
+    "tip": "семенке",
+    "name": "MN 1kg PARAKEETS UNIVERSAL нимфе",
+
+    "price": "295",
+    "detail": "-",
+    "image": "/artikli/mn-parakeets-universal.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c7f"
+    },
+    "tip": "семенке",
+    "name": "MN 1kg MISCUGLIO CANARINI канаринци ",
+
+    "price": "352",
+    "detail": "-",
+    "image": "/artikli/mn-miscuglio-canarini.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c80"
+    },
+    "tip": "семенке",
+    "name": "MN 1kg AGAPORNIS PARAKEETS нимфе",
+
+    "price": "358",
+    "detail": "-",
+    "image": "/artikli/mn-agapornis-parakeets.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "птице",
+    "link": "ptice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c81"
+    },
+    "tip": "грануле",
+    "name": "Cibau Lamb Sensitive Medium&Maxi, 12kg",
+    "price": "437",
+    "detail": "-",
+    "image": "/artikli/cibau-lamb-sensitive-medium-maxi.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c82"
+    },
+    "tip": "грануле",
+    "name": "Matisse, Kitten Chicken & Rice,10kg",
+    "price": "546",
+    "detail": "-",
+    "image": "/artikli/matisse-kitten-chicken-rice.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c83"
+    },
+    "tip": "грануле",
+    "name": "Matisse, Adult Neutered Salmon & Tuna, 10kg",
+    "price": "516",
+    "detail": "-",
+    "image": "/artikli/matisse-neutered-salmon-adult-cat.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c84"
+    },
+    "tip": "грануле",
+    "name": "N&D, Pumpkin Medium&Maxi Adult Lamb&Blueberry, 12kg",
+    "price": "904",
+    "detail": "-",
+    "image": "/artikli/n&d-adult-dog-blueberry.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c85"
+    },
+    "tip": "грануле",
+    "name": "N&D, Pumpkin Puppy Lamb&Blueberry Mini, 7kg",
+    "price": "965",
+    "detail": "-",
+    "image": "/artikli/n&d-mini-dog-blueberry.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c86"
+    },
+    "tip": "грануле",
+    "name": "N&D, Pumpkin Mini Adult Chicken&Pomegranate, 7kg",
+    "price": "832",
+    "detail": "-",
+    "image": "/artikli/n&d-mini-dog-pomegranate.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c87"
+    },
+    "tip": "грануле",
+    "name": "N&D, Medium&Maxi Adult Chicken&Pomegranate Ancestral Selection, 15kg",
+    "price": "489",
+    "detail": "-",
+    "image": "/artikli/n&d-grain-dog-pomegranate.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c88"
+    },
+    "tip": "грануле",
+    "name": "N&D, Ancestral Grain Cat Lamb&Blueberry, 10kg",
+    "price": "1008",
+    "detail": "-",
+    "image": "/artikli/n&d-grain-cat-blueberry.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c89"
+    },
+    "tip": "грануле",
+    "name": "N&D, Ancestral Grain Cat Chicken&Pomegranate, 10kg",
+    "price": "936",
+    "detail": "-",
+    "image": "/artikli/n&d-grain-cat-pomegranate.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c8a"
+    },
+    "tip": "конзерва",
+    "name": "Dog Menu говедина 1240g",
+
+    "price": "225",
+    "detail": "-",
+    "image": "/artikli/dog-menu-beef-l.png",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c8b"
+    },
+    "tip": "конзерва",
+    "name": "Dog Menu пилетина` 1240g",
+
+    "price": "225",
+    "detail": "-",
+    "image": "/artikli/dog-menu-chicken-l.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c8c"
+    },
+    "tip": "конзерва",
+    "name": "Cat Menu пилетина, 415g",
+
+    "price": "99",
+    "detail": "-",
+    "image": "/artikli/cat-menu-chicken.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c8d"
+    },
+    "tip": "конзерва",
+    "name": "Cat Menu риба, 415g",
+
+    "price": "99",
+    "detail": "-",
+    "image": "/artikli/cat-menu-fish.png",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c8e"
+    },
+    "tip": "конзерва",
+    "name": "Cat Menu говедина, 415g",
+
+    "price": "99",
+    "detail": "-",
+    "image": "/artikli/cat-menu-beef.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c8f"
+    },
+    "tip": "конзерва",
+    "name": "Dog Menu пилетина` 415g",
+
+    "price": "99",
+    "detail": "-",
+    "image": "/artikli/dog-menu-chicken.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c90"
+    },
+    "tip": "конзерва",
+    "name": "Dog Menu говедина 415g",
+
+    "price": "99",
+    "detail": "-",
+    "image": "/artikli/dog-menu-beef.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c91"
+    },
+    "tip": "конзерва",
+    "name": "Nuevo говедина Grain free, 400g",
+
+    "price": "245",
+    "detail": "-",
+    "image": "/artikli/nuevo-beef-grain-free.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c92"
+    },
+    "tip": "конзерва",
+    "name": "Nuevo јагњетина и кромпир grain free, 400g",
+
+    "price": "245",
+    "detail": "-",
+    "image": "/artikli/nuevo-lamb-potato-grain-free.png",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c93"
+    },
+    "tip": "конзерва",
+    "name": "Nuevo пилетина Sensitive Grain Free, 200g",
+
+    "price": "161",
+    "detail": "-",
+    "image": "/artikli/nuevo-sensitive-grain-free.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c94"
+    },
+    "tip": "конзерва",
+    "name": "Nuevo Kitten - пилетина са пиринчем и уљем, 200g",
+
+    "price": "161",
+    "detail": "-",
+    "image": "/artikli/nuevo-kitten-chicken-rice-oil.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c95"
+    },
+    "tip": "конзерва",
+    "name": "Nuevo говедина  Grain Free, 200g",
+
+    "price": "161",
+    "detail": "-",
+    "image": "/artikli/nuevo-grain-free-cats-beef.png",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c96"
+    },
+    "tip": "сосић",
+    "name": "Plaisir прелив за мачке, Plaisir Multipack ,100g, 12 kom",
+
+    "price": "50",
+    "detail": "-",
+    "image": "/artikli/plaisir-sauce-cat-12.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c97"
+    },
+    "tip": "сосић",
+    "name": "Plaisir прелив за мачиће, пилетина, 100g",
+
+    "price": "50",
+    "detail": "-",
+    "image": "/artikli/plaisir-sauce-kitten-chicken.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c98"
+    },
+    "tip": "паштета",
+    "name": "Plaisir паштета за мачке, пилетина за мачиће-Kitten, 100g",
+
+    "price": "61",
+    "detail": "-",
+    "image": "/artikli/plaisir-kitten-chicken.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c99"
+    },
+    "tip": "паштета",
+    "name": "Plaisir паштета за мачке, пилетина, 100g",
+
+    "price": "61",
+    "detail": "-",
+    "image": "/artikli/plaisir-cat-patte-chicken.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c9a"
+    },
+    "tip": "паштета",
+    "name": "Plaisir паштета за мачке, говедина, 100g",
+
+    "price": "61",
+    "detail": "-",
+    "image": "/artikli/plaisir-cat-patte-beef.png",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c9b"
+    },
+    "tip": "паштета",
+    "name": "Plaisir паштета за мачке, лосос, 100g",
+
+    "price": "61",
+    "detail": "-",
+    "image": "/artikli/plaisir-cat-patte-salmon.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c9c"
+    },
+    "tip": "паштета",
+    "name": "Plaisir паштета за псе - говедина и поврће, 150g",
+
+    "price": "87",
+    "detail": "-",
+    "image": "/artikli/plaisir-dog-patte.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c9d"
+    },
+    "tip": "паштета",
+    "name": "Plaisir паштета за псе - пилетина`, 150g",
+
+    "price": "87",
+    "detail": "-",
+    "image": "/artikli/plaisir-dog-patte.png",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c9e"
+    },
+    "tip": "паштета",
+    "name": "Plaisir паштета за штенце - пилетина, 150g",
+
+    "price": "87",
+    "detail": "-",
+    "image": "/artikli/plaisir-puppy-patte.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0c9f"
+    },
+    "tip": "суплемент",
+    "name": "Diafarm, VM Energy паста гел+таурин+омега 6, 50g",
+
+    "price": "731",
+    "detail": "-",
+    "image": "/artikli/diafarm-vm-energy.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ca0"
+    },
+    "tip": "суплемент",
+    "name": "Diafarm, Cat Malt паста 50ml",
+
+    "price": "731",
+    "detail": "-",
+    "image": "/artikli/diafarm-cat-malt.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ca1"
+    },
+    "tip": "остало",
+    "name": "адресар у облику срца ",
+
+    "price": "96",
+    "detail": "-",
+    "image": "/artikli/heart-shaped-address.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ca2"
+    },
+    "tip": "амови",
+    "name": "ам Coco миш браон 25x660mm ",
+
+    "price": "1828",
+    "detail": "-",
+    "image": "/artikli/am-coco-mouse-brown.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ca3"
+    },
+    "tip": "амови",
+    "name": "Ам COCO Large плави ",
+
+    "price": "1727",
+    "detail": "-",
+    "image": "/artikli/am-coco-small.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ca4"
+    },
+    "tip": "амови",
+    "name": "ам Trekking FUSS-COMF. 10mm црна ",
+
+    "price": "857",
+    "detail": "-",
+    "image": "/artikli/am-trekking-fuss-comf-red.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ca5"
+    },
+    "tip": "амови",
+    "name": "ам COCO Medium плави ",
+
+    "price": "1573",
+    "detail": "-",
+    "image": "/artikli/am-coco-small.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ca6"
+    },
+    "tip": "амови",
+    "name": "ам Trekking FUSS-COMF. 30mm црвени ",
+
+    "price": "1913",
+    "detail": "-",
+    "image": "/artikli/am-trekking-fuss-comf-red.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ca7"
+    },
+    "tip": "амови",
+    "name": "ам COCO Small розе ",
+
+    "price": "1497",
+    "detail": "-",
+    "image": "/artikli/am-coco-small.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ca8"
+    },
+    "tip": "гребалица",
+    "name": "гребалица за маце равна ",
+
+    "price": "551",
+    "detail": "-",
+    "image": "/artikli/scratcher-flat.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ca9"
+    },
+    "tip": "гребалица",
+    "name": "гребалица Pesciotto 26.5x13x4cm ",
+
+    "price": "845",
+    "detail": "-",
+    "image": "/artikli/scratcher-pesciotto.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0caa"
+    },
+    "tip": "амови",
+    "name": "рукохват од најлона црни 25x45 ",
+
+    "price": "639",
+    "detail": "-",
+    "image": "/artikli/am-nylon-black.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cab"
+    },
+    "tip": "транспортер",
+    "name": "транспортер Pratico 2 више боја ",
+
+    "price": "2253",
+    "detail": "-",
+    "image": "/artikli/transporter-pratico-2.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cac"
+    },
+    "tip": "транспортер",
+    "name": "транспортер Pratico више боја ",
+
+    "price": "1894",
+    "detail": "-",
+    "image": "/artikli/transporter-pratico.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cad"
+    },
+    "tip": "остало",
+    "name": "сигурносни појас 20mm за кола ",
+
+    "price": "383",
+    "detail": "-",
+    "image": "/artikli/safety-belt-for-car.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cae"
+    },
+    "tip": "играчке",
+    "name": "играчка Twister 4cm у кутији ",
+
+    "price": "137",
+    "detail": "-",
+    "image": "/artikli/cat-toy-twister-box.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0caf"
+    },
+    "tip": "играчке",
+    "name": "играчка за маце Mixer 3.8/5cm ",
+
+    "price": "26",
+    "detail": "-",
+    "image": "/artikli/cat-toy-mixer.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cb0"
+    },
+    "tip": "играчке",
+    "name": "лопта за псе тенис 6.5cm ",
+
+    "price": "107",
+    "detail": "-",
+    "image": "/artikli/ball-tennis-dogs.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cb1"
+    },
+    "tip": "играчке",
+    "name": "играчка за мачке металне лопте 4cm ",
+
+    "price": "36",
+    "detail": "-",
+    "image": "/artikli/cat-metal-balls.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cb2"
+    },
+    "tip": "играчке",
+    "name": "играчка канап са тениском лоптон зелено/плави 25cm ",
+
+    "price": "316",
+    "detail": "-",
+    "image": "/artikli/rope-ball-orange-blue.png",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cb3"
+    },
+    "tip": "играчке",
+    "name": "играчка канап са лоптом нарaнџасто/плави 19cm ",
+
+    "price": "231",
+    "detail": "-",
+    "image": "/artikli/rope-ball-orange-blue.png",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cb4"
+    },
+    "tip": "поводац",
+    "name": "D.Povod. reflect 10*1200 наранџаст ",
+
+    "price": "665",
+    "detail": "-",
+    "image": "/artikli/d-leash-reflect.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cb5"
+    },
+    "tip": "поводац",
+    "name": "пов.за псе метал 1*4mm црна ",
+
+    "price": "565",
+    "detail": "-",
+    "image": "/artikli/leash-metal.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cb6"
+    },
+    "tip": "поводац",
+    "name": "пов.за псе метал 1.1m*2mm црвена ",
+
+    "price": "392",
+    "detail": "-",
+    "image": "/artikli/leash-metal.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cb7"
+    },
+    "tip": "поводац",
+    "name": "пов. за псе метал 1m*3mm плави ",
+
+    "price": "467",
+    "detail": "-",
+    "image": "/artikli/leash-metal.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cb8"
+    },
+    "tip": "поводац",
+    "name": "поводац од гајтана 12mm-1m жут ",
+
+    "price": "640",
+    "detail": "-",
+    "image": "/artikli/leash-gajtan.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cb9"
+    },
+    "tip": "поводац",
+    "name": "поводац од гајтана 10MM-1M црни ",
+
+    "price": "518",
+    "detail": "-",
+    "image": "/artikli/leash-gajtan.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cba"
+    },
+    "tip": "поводац",
+    "name": "поводац од гајтана 12MM-1M црни ",
+
+    "price": "640",
+    "detail": "-",
+    "image": "/artikli/leash-gajtan.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cbb"
+    },
+    "tip": "поводац",
+    "name": "поводац од гајтна 8MM-1,3M плави ",
+
+    "price": "384",
+    "detail": "-",
+    "image": "/artikli/leash-gajtan.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cbc"
+    },
+    "tip": "поводац",
+    "name": "поводац од гајтана 8MM-1,3M љубичасти ",
+
+    "price": "384",
+    "detail": "-",
+    "image": "/artikli/leash-gajtan.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cbd"
+    },
+    "tip": "поводац",
+    "name": "поводац од гајтана 6MM-1,3M црвени ",
+
+    "price": "268",
+    "detail": "-",
+    "image": "/artikli/leash-gajtan.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cbe"
+    },
+    "tip": "поводац",
+    "name": "поводац од гајтана 6mm-1,7m ",
+
+    "price": "310",
+    "detail": "-",
+    "image": "/artikli/leash-gajtan.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cbf"
+    },
+    "tip": "поводац",
+    "name": "поводац од гајтана 4mm-1,7m ",
+
+    "price": "283",
+    "detail": "-",
+    "image": "/artikli/leash-gajtan.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cc0"
+    },
+    "tip": "поводац",
+    "name": "поводац од гајтана 10mm-1,7m ",
+
+    "price": "640",
+    "detail": "-",
+    "image": "/artikli/leash-gajtan.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cc1"
+    },
+    "tip": "поводац",
+    "name": "поводац Premium 18mmx100cm од јагњеће коже ",
+
+    "price": "1455",
+    "detail": "-",
+    "image": "/artikli/leash-premium-lamb-skin.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cc2"
+    },
+    "tip": "грануле",
+    "name": "Tetramix 60ml ",
+
+    "price": "69",
+    "detail": "-",
+    "image": "/artikli/tetramix.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "рибице",
+    "link": "ribice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cc3"
+    },
+    "tip": "грануле",
+    "name": "гранула црна 1 - ситна 60ml ",
+
+    "price": "68",
+    "detail": "-",
+    "image": "/artikli/granula-crna-1-sitna.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "рибице",
+    "link": "ribice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cc4"
+    },
+    "tip": "грануле",
+    "name": "Tubifex 60ml ",
+
+    "price": "146",
+    "detail": "-",
+    "image": "/artikli/tubifex.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "рибице",
+    "link": "ribice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cc5"
+    },
+    "tip": "грануле",
+    "name": "гранула црна 2 - крупна 60ml ",
+
+    "price": "68",
+    "detail": "-",
+    "image": "/artikli/granula-crna-2-krupna.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "рибице",
+    "link": "ribice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cc6"
+    },
+    "tip": "грануле",
+    "name": "Tropical mix 120ml ",
+
+    "price": "108",
+    "detail": "-",
+    "image": "/artikli/tropical-mix.png",
+    "novo": false,
+    "akcija": false,
+    "title": "рибице",
+    "link": "ribice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cc7"
+    },
+    "tip": "грануле",
+    "name": "гранула црна - ситна 120ml ",
+
+    "price": "120",
+    "detail": "-",
+    "image": "/artikli/granula-crna-sitna.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "рибице",
+    "link": "ribice"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cc8"
+    },
+    "tip": "амови",
+    "name": "ам Trekking FUSS-COMF. 25mm црни ",
+
+    "price": "1418",
+    "detail": "-",
+    "image": "/artikli/am-trekking-fuss-comf-purple.jpg",
+    "novo": true,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cc9"
+    },
+    "tip": "амови",
+    "name": "ам Trekking FUSS-COMF. 15mm лила ",
+
+    "price": "1015",
+    "detail": "-",
+    "image": "/artikli/am-trekking-fuss-comf-purple.jpg",
+    "novo": true,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cca"
+    },
+    "tip": "амови",
+    "name": "ам Trekking FUSS-COMF. 20mm зелени ",
+
+    "price": "1307",
+    "detail": "-",
+    "image": "/artikli/am-trekking-fuss-comf-red.jpg",
+    "novo": true,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ccb"
+    },
+    "tip": "посластица",
+    "name": "Heart/Moon/Star Mix, 2kg",
+
+    "price": "662",
+    "detail": "-",
+    "image": "/artikli/heart-moon-star-mix.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ccc"
+    },
+    "tip": "посластица",
+    "name": "Mini Mix, 2kg",
+
+    "price": "632",
+    "detail": "-",
+    "image": "/artikli/mini-mix-2kg.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ccd"
+    },
+    "tip": "грануле",
+    "name": "Premil, standard живина, 10kg",
+    "price": "247",
+    "detail": "-",
+    "image": "/artikli/premil-standard-poultry.png",
+    "novo": false,
+    "akcija": true,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cce"
+    },
+    "tip": "грануле",
+    "name": "Josera Culinesse лосос 15kg",
+    "price": "522",
+    "detail": "-",
+    "image": "/artikli/josera-culinesse-salmon.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ccf"
+    },
+    "tip": "грануле",
+    "name": "Josera, catelux пачетина, hairball 15kg",
+    "price": "538",
+    "detail": "-",
+    "image": "/artikli/josera-catelux-duck.jpeg",
+    "novo": false,
+    "akcija": true,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cd0"
+    },
+    "tip": "грануле",
+    "name": "Premil maxi basic, 15kg",
+    "price": "139",
+    "detail": "-",
+    "image": "/artikli/premil-maxi-basic.png",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cd1"
+    },
+    "tip": "грануле",
+    "name": "Josera, active dog, 18kg",
+    "price": "259",
+    "detail": "-",
+    "image": "/artikli/josera-active-dog.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cd2"
+    },
+    "tip": "грануле",
+    "name": "Royal canin, mini adult, 8kg",
+    "price": "902",
+    "detail": "-",
+    "image": "/artikli/royal-canin-mini-adult.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cd3"
+    },
+    "tip": "грануле",
+    "name": "Royal canin, medium adult, 10kg",
+    "price": "684",
+    "detail": "-",
+    "image": "/artikli/royal-canin-medium-adult.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cd4"
+    },
+    "tip": "грануле",
+    "name": "Royal canin, mini puppy, 8kg",
+    "price": "978",
+    "detail": "-",
+    "image": "/artikli/royal-canin-mini-puppy.jpg",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cd5"
+    },
+    "tip": "шампон",
+    "name": "шампон за дугу длаку - Velelek, 200ml",
+    "price": "195",
+    "detail": "-",
+    "image": "/artikli/shampoo-long-hair-velelek.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cd6"
+    },
+    "tip": "шампон",
+    "name": "шампон за кратку длаку - Velelek, 200ml",
+
+    "price": "195",
+    "detail": "-",
+    "image": "/artikli/shampoo-short-hair-velelek.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cd7"
+    },
+    "tip": "шампон",
+    "name": "шампон против паразита - Velelek, 125ml",
+
+    "price": "195",
+    "detail": "-",
+    "image": "/artikli/shampoo-parasite-velelek.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cd8"
+    },
+    "tip": "шампон",
+    "name": "шампон за штенце и мачке - Velelek, 200ml",
+
+    "price": "195",
+    "detail": "-",
+    "image": "/artikli/shampoo-puppy-cats-velelek.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cda"
+    },
+    "tip": "грануле",
+    "name": "GOSBI Original Cat Adult 12kg + 1kg гратис",
+    "price": "482",
+    "detail": "-",
+    "image": "/artikli/gosbi-cat-adult.png",
+    "novo": false,
+    "akcija": true,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cdb"
+    },
+    "tip": "грануле",
+    "name": "Gosbi Original Cat Kitten 7kg + 1kg гратис",
+    "price": "542",
+    "detail": "-",
+    "image": "/artikli/gosbi-cat-kitten.png",
+    "novo": false,
+    "akcija": true,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cdc"
+    },
+    "tip": "грануле",
+    "name": "GOSBI EXCLUSIVE GRAIN FREE ADULT MINI, 7kg ",
+    "price": "753",
+    "detail": "-",
+    "image": "/artikli/gosbi-grain-free-adult-mini.png",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cdd"
+    },
+    "tip": "грануле",
+    "name": "Gosbi LIFE PUPPY, 15kg  ",
+    "price": "361",
+    "detail": "-",
+    "image": "/artikli/gosbi-life-puppy.png",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cde"
+    },
+    "tip": "грануле",
+    "name": "Gosbi Original Cat Sterilized Hairball 7 kg + 1kg гратис ",
+    "price": "672",
+    "detail": "-",
+    "image": "/artikli/gosbi-cat-sterilized-hairball.png",
+    "novo": false,
+    "akcija": true,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cdf"
+    },
+    "tip": "грануле",
+    "name": "Gosbi Exclusive Lamb Mini 7kg + 2kg гратис ",
+    "price": "733",
+    "detail": "-",
+    "image": "/artikli/gosbi-lamb-mini.png",
+    "novo": false,
+    "akcija": true,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ce0"
+    },
+    "tip": "играчке",
+    "name": "Anastasia кокошка - 32 x 7 x 6 cm",
+    "price": "549",
+    "detail": "-",
+    "image": "/artikli/anastasia-chicken.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ce1"
+    },
+    "tip": "марамице",
+    "name": "антибактеријске влажне марамице 40 ком",
+
+    "price": "210",
+    "detail": "-",
+    "image": "/artikli/antibacterial-wet-wipes.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ce2"
+    },
+    "tip": "боца за воду",
+    "name": "боца за воду - M 500 ml плава",
+
+    "price": "361",
+    "detail": "-",
+    "image": "/artikli/drinking-bottle-blue.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ce3"
+    },
+    "tip": "боца за воду",
+    "name": "боца за воду - S 300 ml плава",
+
+    "price": "306",
+    "detail": "-",
+    "image": "/artikli/drinking-bottle-blue.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ce4"
+    },
+    "tip": "играчке",
+    "name": "Catapult са тениском лоптицом (плава, црвена и жута)  - 65 x 6 x 6 cm Ø6,3 cm ",
+
+    "price": "453",
+    "detail": "-",
+    "image": "/artikli/catapult-thrower-tennis-ball.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ce5"
+    },
+    "tip": "играчке",
+    "name": "Donut – играчка крофна (наранџаста, жута, плава) Ø 9 cm",
+
+    "price": "300",
+    "detail": "-",
+    "image": "/artikli/donut-dog-toy.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ce6"
+    },
+    "tip": "козметика",
+    "name": "Ear Cleaner лосион за чишћење ушију 118 ml",
+
+    "price": "435",
+    "detail": "-",
+    "image": "/artikli/losion-ear-cleaner.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ce7"
+    },
+    "tip": "боца за воду",
+    "name": "флашица за мале животиње (плава, зелена, наранџаста и роза) - 100ml",
+
+    "price": "192",
+    "detail": "-",
+    "image": "/artikli/drinking-bottle-small-animals.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ce8"
+    },
+    "tip": "боца за воду",
+    "name": "флашица за мале животиње (плава, зелена, наранџаста и роза) - 250ml",
+
+    "price": "225",
+    "detail": "-",
+    "image": "/artikli/drinking-bottle-small-animals.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ce9"
+    },
+    "tip": "боца за воду",
+    "name": "флашица за мале животиње (плава, зелена, наранџаста и роза) - 450ml",
+
+    "price": "250",
+    "detail": "-",
+    "image": "/artikli/drinking-bottle-small-animals.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "глодари",
+    "link": "glodari"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cea"
+    },
+    "tip": "играчке",
+    "name": "Gaspra – играчка кост (наранџаста, роза, зелена) 16 cm",
+
+    "price": "591",
+    "detail": "-",
+    "image": "/artikli/gaspra-bone-toy.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ceb"
+    },
+    "tip": "кесице за измет",
+    "name": "хигијенске кесице за псе - 300 ком - мирис траве – зелена",
+
+    "price": "10",
+    "detail": "-",
+    "image": "/artikli/dog-waste-bags-grass.jpeg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cec"
+    },
+    "tip": "кесице за измет",
+    "name": "хигијенске кесице за псе 4 x 20 ком - микс боје",
+
+    "price": "264",
+    "detail": "-",
+    "image": "/artikli/dog-waste-bags.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0ced"
+    },
+    "tip": "гребалица",
+    "name": "Janga Snake гребалица кућица - 30 x 30 x 40 cm Ø 8,5 cm                  ",
+
+    "price": "3274",
+    "detail": "-",
+    "image": "/artikli/janga-snake-scratcher.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cee"
+    },
+    "tip": "играчке",
+    "name": "Jupiter – лопта посластица (црвена, зелена,плава) Ø 6,5 cm",
+
+    "price": "213",
+    "detail": "-",
+    "image": "/artikli/jupiter-treat-ball.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cef"
+    },
+    "tip": "тоалет",
+    "name": "лопатица за WC основна - црвена - пластична - 26 x 10 x 1 cm",
+
+    "price": "59",
+    "detail": "-",
+    "image": "/artikli/cat-litter-scoop-basic.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cf0"
+    },
+    "tip": "маказе",
+    "name": "маказе за нокте - сигурносне - 5,5 x 12,5 cm S",
+
+    "price": "662",
+    "detail": "-",
+    "image": "/artikli/nail-clippers-safety.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cf1"
+    },
+    "tip": "маказе",
+    "name": "маказе за нокте - сигурносне - 6,7 x 15 cm L",
+
+    "price": "882",
+    "detail": "-",
+    "image": "/artikli/nail-clippers-safety.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cf2"
+    },
+    "tip": "играчке",
+    "name": "Mars лопта za посластица (наранџаста, жута и плава) - Ø8 cm                                 ",
+
+    "price": "372",
+    "detail": "-",
+    "image": "/artikli/mars-ball-treats.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cf3"
+    },
+    "tip": "чинија",
+    "name": "меламинска посуда - споро храњење 1400 ml - зелена - плава  - бела",
+
+    "price": "1018",
+    "detail": "-",
+    "image": "/artikli/melamin-bowl-slow-feed.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cf4"
+    },
+    "tip": "чинија",
+    "name": "меламинска посуда - споро храњење 250 ml - зелена - плава - бела",
+
+    "price": "412",
+    "detail": "-",
+    "image": "/artikli/melamin-bowl-slow-feed.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cf5"
+    },
+    "tip": "чинија",
+    "name": "меламинска посуда - споро храњење 450 ml  - зелена - плава - бела",
+
+    "price": "521",
+    "detail": "-",
+    "image": "/artikli/melamin-bowl-slow-feed.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cf6"
+    },
+    "tip": "чинија",
+    "name": "меламинска посуда - споро храњење 900 ml - зелена - плава - бела",
+
+    "price": "750",
+    "detail": "-",
+    "image": "/artikli/melamin-bowl-slow-feed.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cf7"
+    },
+    "tip": "чинија",
+    "name": "меламинска посуда moderne 1100 ml  - зелена - плава - бела",
+
+    "price": "827",
+    "detail": "-",
+    "image": "/artikli/melamin-bowl-moderne.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cf8"
+    },
+    "tip": "чинија",
+    "name": "меламинска посуда Moderne 300 ml  - зелена - плава - бела",
+
+    "price": "384",
+    "detail": "-",
+    "image": "/artikli/melamin-bowl-moderne.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cf9"
+    },
+    "tip": "чинија",
+    "name": "меламинска посуда Moderne 450 ml  - зелена - плава - бела",
+
+    "price": "581",
+    "detail": "-",
+    "image": "/artikli/melamin-bowl-moderne.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cfa"
+    },
+    "tip": "тоалет",
+    "name": "Memphis WC - отворени са рубом (зелени, тиркизни и љубичасти) - 40,5 x 33,2 x 12 cm ",
+
+    "price": "689",
+    "detail": "-",
+    "image": "/artikli/memphis-cat-litter-rim.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cfb"
+    },
+    "tip": "играчке",
+    "name": "Metis играчка (роза, наранџаста и зелена) - 13,2 x 5,8 cm",
+
+    "price": "680",
+    "detail": "-",
+    "image": "/artikli/metis-dog-toy.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cfc"
+    },
+    "tip": "играчке",
+    "name": "миш на штапићу – 35 cm",
+
+    "price": "458",
+    "detail": "-",
+    "image": "/artikli/mouse-wand.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cfd"
+    },
+    "tip": "играчке",
+    "name": "Natura морска трава Roll & Ball - 20cm Ø3,5 cm|12 cm Ø4,5 cm",
+
+    "price": "245",
+    "detail": "-",
+    "image": "/artikli/natura-seagrass-roll-ball.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cfe"
+    },
+    "tip": "играчке",
+    "name": "Natura перце на штапићу – 35,5 cm",
+
+    "price": "422",
+    "detail": "-",
+    "image": "/artikli/natura-feather-stick.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0cff"
+    },
+    "tip": "торбица за посластица",
+    "name": "Nazca  транспортна торба (за посластица) плаво црна 12 x 12 x 15 cm",
+
+    "price": "282",
+    "detail": "-",
+    "image": "/artikli/nazca-treat-bag.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d00"
+    },
+    "tip": "огрлица",
+    "name": "огрлица за мачке - Glitter (сива и црвена)",
+
+    "price": "289",
+    "detail": "-",
+    "image": "/artikli/cat-collar-glitter.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d01"
+    },
+    "tip": "огрлица",
+    "name": "огрлица за мачке - Stripes (зелена и роза)",
+
+    "price": "267",
+    "detail": "-",
+    "image": "/artikli/cat-collar-pink.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d02"
+    },
+    "tip": "огрлица",
+    "name": "огрлица за псе - пругаста (роза са цветићима) - 1,5 x 25 cm/35,5 cm - S",
+
+    "price": "415",
+    "detail": "-",
+    "image": "/artikli/dog-collar-flowers.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d03"
+    },
+    "tip": "огрлица",
+    "name": "огрлица за псе - пругаста (роза са зеленим, жутим и белим) - 1,5 x 25 cm/35,5 cm - S   ",
+
+    "price": "477",
+    "detail": "-",
+    "image": "/artikli/dog-collar-stripes.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d04"
+    },
+    "tip": "огрлица",
+    "name": "огрлица за псе - пругаста (роза са зеленим, жутим и белим) - 2 x 35 cm/51 cm - M",
+
+    "price": "486",
+    "detail": "-",
+    "image": "/artikli/dog-collar-stripes.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d05"
+    },
+    "tip": "огрлица",
+    "name": "огрлица за псе - Sportline (црвена, црна и плава) - 1,5 x 25 cm/35,5 cm - S ",
+
+    "price": "338",
+    "detail": "-",
+    "image": "/artikli/sportline-dog-collar.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d06"
+    },
+    "tip": "огрлица",
+    "name": "огрлица за псе - Sportline (црвена, црна и плава) - 2 x 35,5 cm/51 cm - M ",
+
+    "price": "386",
+    "detail": "-",
+    "image": "/artikli/sportline-dog-collar.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d07"
+    },
+    "tip": "огрлица",
+    "name": "огрлица за псе - Sportline (црвена, црна и плава) - 2,5 x 51 cm/71 cm - L ",
+
+    "price": "466",
+    "detail": "-",
+    "image": "/artikli/sportline-dog-collar.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d08"
+    },
+    "tip": "лежаљка",
+    "name": "Oleron овални јастук – плави - 48 x 32 x 12 cm - M",
+
+    "price": "1114",
+    "detail": "-",
+    "image": "/artikli/olereon-oval-cushion.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d09"
+    },
+    "tip": "лежаљка",
+    "name": "Oleron овални јастук - светло сиви - 64 x 42 x 14 cm - L",
+
+    "price": "1819",
+    "detail": "-",
+    "image": "/artikli/olereon-oval-cushion.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d0a"
+    },
+    "tip": "лежаљка",
+    "name": "Oleron овални јастук - тамно сиви - 37,5 x 24,5 x 10 cm - S",
+
+    "price": "750",
+    "detail": "-",
+    "image": "/artikli/olereon-oval-cushion.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d0b"
+    },
+    "tip": "чинија",
+    "name": "пластична чинија 1150 ml - тамно плава - тамно сива – браон",
+
+    "price": "332",
+    "detail": "-",
+    "image": "/artikli/plasti-bowl.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d0c"
+    },
+    "tip": "чинија",
+    "name": "пластична чинија 475 ml - тамно плава - тамно сива - браон",
+
+    "price": "196",
+    "detail": "-",
+    "image": "/artikli/plasti-bowl.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d0d"
+    },
+    "tip": "чинија",
+    "name": "пластична чинија 775 ml - тамно плава - тамно сива – браон",
+
+    "price": "256",
+    "detail": "-",
+    "image": "/artikli/plasti-bowl.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d0e"
+    },
+    "tip": "чинија",
+    "name": "пластична посуда - дупла 2 x 150 ml",
+
+    "price": "112",
+    "detail": "-",
+    "image": "/artikli/plastic-double.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d0f"
+    },
+    "tip": "гребалица",
+    "name": "Portland гребалица - табла (картон) - 42,5 x 24 x 10 cm",
+
+    "price": "1189",
+    "detail": "-",
+    "image": "/artikli/portland-scratcher.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d10"
+    },
+    "tip": "поводац",
+    "name": "поводац - цветићи (рози са цветићима) - 2 x 100 cm",
+
+    "price": "749",
+    "detail": "-",
+    "image": "/artikli/dog-leash-pink-flowers.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d11"
+    },
+    "tip": "поводац",
+    "name": "поводац - Sportline (црвени, црни и плави) - 2 x 100 cm",
+
+    "price": "576",
+    "detail": "-",
+    "image": "/artikli/sportline-dog-leash.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d12"
+    },
+    "tip": "шампон",
+    "name": "природни неутрални шампон за честу употребу 250 ml",
+
+    "price": "403",
+    "detail": "-",
+    "image": "/artikli/natural-shampoo-neutral.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d13"
+    },
+    "tip": "шампон",
+    "name": "природни шампон - 2 у 1 (шампон и кондиционер) 250 ml",
+
+    "price": "403",
+    "detail": "-",
+    "image": "/artikli/natural-shampoo-2in1.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d14"
+    },
+    "tip": "шампон",
+    "name": "природни шампон против бува и крпеља 250 ml",
+
+    "price": "403",
+    "detail": "-",
+    "image": "/artikli/natural-shampoo-fleas-ticks.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d15"
+    },
+    "tip": "шампон",
+    "name": "природни шампон за белу длаку 250 ml",
+
+    "price": "403",
+    "detail": "-",
+    "image": "/artikli/natural-shampoo-white.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d16"
+    },
+    "tip": "шампон",
+    "name": "природни шампон за дугу длаку 250 ml  ",
+
+    "price": "403",
+    "detail": "-",
+    "image": "/artikli/natural-shampoo-long.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d17"
+    },
+    "tip": "шампон",
+    "name": "природни шампон за расчешљавање 250 ml  ",
+
+    "price": "403",
+    "detail": "-",
+    "image": "/artikli/natural-shampoo-comb.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d18"
+    },
+    "tip": "шампон",
+    "name": "природни шампон за штенад 250 ml",
+
+    "price": "403",
+    "detail": "-",
+    "image": "/artikli/natural-shampoo.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d19"
+    },
+    "tip": "пелене",
+    "name": "Puppy тренинг подлоге - 15 ком (45 x 60 cm) беле",
+
+    "price": "471",
+    "detail": "-",
+    "image": "/artikli/puppy-training-pads.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d1a"
+    },
+    "tip": "пелене",
+    "name": "Puppy тренинг подлоге - 50 ком (45 x 60 cm) беле",
+
+    "price": "35",
+    "detail": "-",
+    "image": "/artikli/puppy-training-pads.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d1b"
+    },
+    "tip": "пелене",
+    "name": "Puppy тренинг подлоге - 15 kom (60 x 60 cm) беле",
+
+    "price": "628",
+    "detail": "-",
+    "image": "/artikli/puppy-training-pads.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d1c"
+    },
+    "tip": "пелене",
+    "name": "Puppy тренинг подлоге - 100 ком (60 x 60 cm) беле",
+
+    "price": "42",
+    "detail": "-",
+    "image": "/artikli/puppy-training-pads.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d1d"
+    },
+    "tip": "пелене",
+    "name": "Puppy тренинг подлоге - 15 ком (90 x 60 cm) беле",
+
+    "price": "992",
+    "detail": "-",
+    "image": "/artikli/puppy-training-pads.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d1e"
+    },
+    "tip": "пелене",
+    "name": "Puppy тренинг подлоге - 50 ком (90 x 60 cm) беле",
+
+    "price": "68",
+    "detail": "-",
+    "image": "/artikli/puppy-training-pads.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d1f"
+    },
+    "tip": "играчке",
+    "name": "Saturn играчка за псе - црвена",
+
+    "price": "629",
+    "detail": "-",
+    "image": "/artikli/saturn-red.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d20"
+    },
+    "tip": "играчке",
+    "name": "Saturn играчка за псе - зелена",
+
+    "price": "629",
+    "detail": "-",
+    "image": "/artikli/saturn-green.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d21"
+    },
+    "tip": "опрема",
+    "name": "сет за дојење 66.5 ml",
+
+    "price": "372",
+    "detail": "-",
+    "image": "/artikli/nursing-kit.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d22"
+    },
+    "tip": "играчке",
+    "name": "Splash bumerang – (плави, жути и наранџасти) - 21,5 x 25 x 3,1 cm",
+
+    "price": "611",
+    "detail": "-",
+    "image": "/artikli/splash-boomerang.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d23"
+    },
+    "tip": "козметика",
+    "name": "Tear Stain Remover лосион за отклањање мрља испод очију 118 ml",
+
+    "price": "416",
+    "detail": "-",
+    "image": "/artikli/tear-stain-remover.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d24"
+    },
+    "tip": "играчке",
+    "name": "Twist прстен (рози, плави, жути) - 19 cm лопта",
+
+    "price": "355",
+    "detail": "-",
+    "image": "/artikli/twist-ring.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d25"
+    },
+    "tip": "играчке",
+    "name": "Uranus играчка за псе - љубичаста",
+
+    "price": "283",
+    "detail": "-",
+    "image": "/artikli/uranus-purple.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d26"
+    },
+    "tip": "играчке",
+    "name": "Uranus играчка за псе - зелена",
+
+    "price": "283",
+    "detail": "-",
+    "image": "/artikli/uranus-green.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d27"
+    },
+    "tip": "играчке",
+    "name": "уже 20 cm",
+
+    "price": "115",
+    "detail": "-",
+    "image": "/artikli/rope.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d28"
+    },
+    "tip": "играчке",
+    "name": "уже 26 cm",
+
+    "price": "231",
+    "detail": "-",
+    "image": "/artikli/rope.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d29"
+    },
+    "tip": "играчке",
+    "name": "уже 37 cm",
+
+    "price": "443",
+    "detail": "-",
+    "image": "/artikli/rope.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d2a"
+    },
+    "tip": "играчке",
+    "name": "уже 48 cm",
+
+    "price": "734",
+    "detail": "-",
+    "image": "/artikli/rope.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d2b"
+    },
+    "tip": "марамице",
+    "name": "влажне марамице - мирис авокада 40 kom",
+
+    "price": "201",
+    "detail": "-",
+    "image": "/artikli/wet-wipes-avocado-40.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d2c"
+    },
+    "tip": "марамице",
+    "name": "влажне марамице - мирис кокоса 40 kom",
+
+    "price": "201",
+    "detail": "-",
+    "image": "/artikli/wet-wipes-coconut-40.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d2d"
+    },
+    "tip": "марамице",
+    "name": "влажне марамице за тело и шапе 15 x 20 cm 40 комада – беле",
+
+    "price": "150",
+    "detail": "-",
+    "image": "/artikli/wet-wipes-40.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d2e"
+    },
+    "tip": "марамице",
+    "name": "влажне марамице за тело и шапе 19 x 16 cm 100 комада – беле",
+
+    "price": "654",
+    "detail": "-",
+    "image": "/artikli/wet-wipes-100.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d2f"
+    },
+    "tip": "играчке",
+    "name": "Washy S - 4 x 4 x 10 cm – плаво бела",
+
+    "price": "585",
+    "detail": "-",
+    "image": "/artikli/washy-s.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d30"
+    },
+    "tip": "крагне",
+    "name": "заштитни оковратник BASTION L 31,1 x 53,3 cm",
+
+    "price": "794",
+    "detail": "-",
+    "image": "/artikli/protective-dog-collar.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d31"
+    },
+    "tip": "крагне",
+    "name": "заштитни оковратник BASTION M 24,1 x 39,1 cm",
+
+    "price": "605",
+    "detail": "-",
+    "image": "/artikli/protective-dog-collar.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d32"
+    },
+    "tip": "крагне",
+    "name": "заштитни оковратник BASTION S 18,4 x 31,1 cm",
+
+    "price": "513",
+    "detail": "-",
+    "image": "/artikli/protective-dog-collar.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d33"
+    },
+    "tip": "крагне",
+    "name": "заштитни оковратник BASTION XL 38,7 x 63,5 cm",
+
+    "price": "1075",
+    "detail": "-",
+    "image": "/artikli/protective-dog-collar.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d34"
+    },
+    "tip": "крагне",
+    "name": "заштитни оковратник BASTION XS 14,6 x 44,1 cm",
+
+    "price": "442",
+    "detail": "-",
+    "image": "/artikli/protective-dog-collar.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "пси",
+    "link": "psi"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d35"
+    },
+    "tip": "тоалет",
+    "name": "Dairut WC - кутија (бела са црниm) - 50 x 42 x 36 cm",
+
+    "price": "2230",
+    "detail": "-",
+    "image": "/artikli/cat-litter-box-small-dairut.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  },
+  {
+    "_id": {
+      "$oid": "6257d0abc1d4d9a0790c0d36"
+    },
+    "tip": "тоалет",
+    "name": "Rosetta WC - кутија - плаво бела - 50 x 42,5 x 44,5 cm",
+
+    "price": "2383",
+    "detail": "-",
+    "image": "/artikli/cat-litter-box-small.jpg",
+    "novo": false,
+    "akcija": false,
+    "title": "мачке",
+    "link": "macke"
+  }
+]

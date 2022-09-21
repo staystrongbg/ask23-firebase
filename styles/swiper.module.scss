@@ -1,0 +1,34 @@
+.swiper {
+  width: 100vw;
+  height: 60vh;
+  // padding: 0 15% 0 15%;
+}
+
+.swiper-slide {
+  // background-position: bottom;
+  width: 100vw;
+  height: 60vh;
+  border: 4px solid transparent;
+  // background-size: cover;
+  // object-fit: cover;
+}
+
+.swiper-slide img {
+  // background-size: cover;
+  object-fit: cover;
+  display: block;
+  width: 100%;
+  height: 100%;
+  // height: 100%;
+}
+
+@media only screen and (max-width: 865px) {
+  .swiper {
+    height: 100%;
+    width: 100%;
+  }
+  .swiper-slide {
+    width: 100%;
+    height: 100%;
+  }
+}

@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'cssVariables';
+@import 'animations';
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #f7f7f7;
+  overflow-x: hidden;
+}
+
+// zeleni gradient
+
+.proizvod-cena {
+  clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+}
+
+.par,
+.head,
+p,
+h1,
+h2,
+span,
+h3,
+b,
+ul,
+li,
+a {
+  font-family: $primary-font;
+}
+
+.head {
+  font-weight: 900;
+}
+
+.search-input {
+  animation: fadeIn 0.3s ease-out;
+  font-family: $mono-font;
+}
+
+.shopping-cart {
+  animation: slideRight 0.3s ease-in-out;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+.brands {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-image: url('/Slike/komarov-egor-bg-unsplash.jpg');
+  background-attachment: fixed;
+}
+.naslovna-bg {
+  border-radius: 2rem;
+  margin: auto;
+  // background: linear-gradient(90deg, #45b649, #dce35b);
+  background: #fc4a1a; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom right,
+    #f7b733,
+    #fc4a1a,
+    #f7b733
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to bottom right,
+    #f7b733,
+    #fc4a1a,
+    #f7b733
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  // background-color: #dce35b;;
+  // background-color: #333;
+  // background-repeat: no-repeat;
+  // background-size: cover;
+  // background-position: 50% 70%;
+  // background-image: url('/Slike/hannah-lim-U6nlG0Y5sfs-unsplash.jpg');
+}
+.map-container {
+  width: 560px;
+  height: 560px;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: rgba(0, 0, 222, 0.1) !important;
+  &:hover {
+    color: rgba(0, 0, 222, 1) !important;
+  }
+}
